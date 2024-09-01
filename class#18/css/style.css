@@ -1,0 +1,26 @@
+*{
+    padding:0;
+    margin:0;
+}
+a,a:hover{
+    text-decoration: none;
+    display:inline-block;
+}
+
+#typed_js{
+    background: url(../images/pexels-photo-5380642.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.overly{
+    padding:300px 0;
+    background: #292626ab;
+}
+h1{
+    color:#fff;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
